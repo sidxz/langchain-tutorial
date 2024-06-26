@@ -12,7 +12,7 @@ full_text = data[0].page_content
 
 text_splitter = RecursiveCharacterTextSplitter(
     # Set a really small chunk size, just to show.
-    chunk_size = 150,
+    chunk_size = 1500,
     chunk_overlap  = 20,
 )
 
