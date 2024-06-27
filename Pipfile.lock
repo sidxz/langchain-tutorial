@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0e6bbb0468bc45f150715c9567b004b42748183273c199a3c148b11f3eef7e11"
+            "sha256": "99200b2d2a353a3e7af7b52fa62d0675c4de9009f575f35aa1d5557917566ee0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -587,11 +587,11 @@
         },
         "fsspec": {
             "hashes": [
-                "sha256:58d7122eb8a1a46f7f13453187bfea4972d66bf01618d37366521b1998034cee",
-                "sha256:f579960a56e6d8038a9efc8f9c77279ec12e6299aa86b0769a7e9c46b94527c2"
+                "sha256:3cb443f8bcd2efb31295a5b9fdb02aee81d8452c80d28f97a6d0959e6cee101e",
+                "sha256:fad7d7e209dd4c1208e3bbfda706620e0da5142bebbd9c384afb95b07e798e49"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2024.6.0"
+            "version": "==2024.6.1"
         },
         "google-auth": {
             "hashes": [
@@ -600,6 +600,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.30.0"
+        },
+        "google-search-results": {
+            "hashes": [
+                "sha256:603a30ecae2af8e600b22635757a6df275dad4b934f975e67878ccd640b78245"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.5'",
+            "version": "==2.4.2"
         },
         "googleapis-common-protos": {
             "hashes": [
@@ -1199,7 +1207,7 @@
                 "sha256:f870204a840a60da0b12273ef34f7051e98c3b5961b61b0c2c1be6dfd64fbcd3",
                 "sha256:ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
             ],
-            "markers": "python_version >= '3.9'",
+            "markers": "python_version >= '3.12'",
             "version": "==1.26.4"
         },
         "oauthlib": {
@@ -1242,11 +1250,11 @@
         },
         "openai": {
             "hashes": [
-                "sha256:28d92503c6e4b6a32a89277b36693023ef41f60922a4b5c8c621e8c5697ae3a6",
-                "sha256:67ef289ae22d350cbf9381d83ae82c4e3596d71b7ad1cc886143554ee12fe0c9"
+                "sha256:c2bfa599445a2d6010adc7954476c2dc64e1aa8dad02ef29e0f31b9a887c1d02",
+                "sha256:c5958617048a2d777d2b96050fd69ae6721bdffbf59967698694223cc092abd9"
             ],
             "markers": "python_full_version >= '3.7.1'",
-            "version": "==1.35.5"
+            "version": "==1.35.6"
         },
         "opentelemetry-api": {
             "hashes": [
