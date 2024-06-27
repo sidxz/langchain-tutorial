@@ -12,6 +12,8 @@ langchain-community = "*"
 langchainhub = "*"
 langchain-chroma = "*"
 bs4 = "*"
+faiss-cpu = "*"
+tiktoken = "*"
 
 [dev-packages]
 
